@@ -1,0 +1,210 @@
+{
+  "continents": [
+    {
+      "name": "Africa",
+      "countries": [
+        {
+          "name": "Nigeria",
+          "regions": [
+            "Lagos",
+            "Abuja",
+            "Kano",
+            "Rivers"
+          ]
+        },
+        {
+          "name": "South Africa",
+          "regions": [
+            "Gauteng",
+            "Western Cape",
+            "KwaZulu-Natal",
+            "Eastern Cape"
+          ]
+        },
+        {
+          "name": "Egypt",
+          "regions": [
+            "Cairo",
+            "Giza",
+            "Alexandria",
+            "Luxor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asia",
+      "countries": [
+        {
+          "name": "China",
+          "regions": [
+            "Beijing",
+            "Shanghai",
+            "Guangdong",
+            "Sichuan"
+          ]
+        },
+        {
+          "name": "India",
+          "regions": [
+            "Maharashtra",
+            "Delhi",
+            "Karnataka",
+            "Tamil Nadu"
+          ]
+        },
+        {
+          "name": "Japan",
+          "regions": [
+            "Tokyo",
+            "Osaka",
+            "Kyoto",
+            "Hokkaido"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "countries": [
+        {
+          "name": "United Kingdom",
+          "regions": [
+            "England",
+            "Scotland",
+            "Wales",
+            "Northern Ireland"
+          ]
+        },
+        {
+          "name": "Germany",
+          "regions": [
+            "Bavaria",
+            "Berlin",
+            "Hesse",
+            "North Rhine-Westphalia"
+          ]
+        },
+        {
+          "name": "France",
+          "regions": [
+            "Île-de-France",
+            "Normandy",
+            "Provence-Alpes-Côte d'Azur",
+            "Brittany"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "countries": [
+        {
+          "name": "United States",
+          "regions": [
+            "California",
+            "Texas",
+            "New York",
+            "Florida"
+          ]
+        },
+        {
+          "name": "Canada",
+          "regions": [
+            "Ontario",
+            "Quebec",
+            "British Columbia",
+            "Alberta"
+          ]
+        },
+        {
+          "name": "Mexico",
+          "regions": [
+            "Mexico City",
+            "Jalisco",
+            "Nuevo León",
+            "Yucatán"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South America",
+      "countries": [
+        {
+          "name": "Brazil",
+          "regions": [
+            "São Paulo",
+            "Rio de Janeiro",
+            "Bahia",
+            "Minas Gerais"
+          ]
+        },
+        {
+          "name": "Argentina",
+          "regions": [
+            "Buenos Aires",
+            "Córdoba",
+            "Santa Fe",
+            "Mendoza"
+          ]
+        },
+        {
+          "name": "Chile",
+          "regions": [
+            "Santiago Metropolitan",
+            "Valparaíso",
+            "Biobío",
+            "Antofagasta"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "countries": [
+        {
+          "name": "Australia",
+          "regions": [
+            "New South Wales",
+            "Victoria",
+            "Queensland",
+            "Western Australia"
+          ]
+        },
+        {
+          "name": "New Zealand",
+          "regions": [
+            "Auckland",
+            "Wellington",
+            "Canterbury",
+            "Otago"
+          ]
+        },
+        {
+          "name": "Fiji",
+          "regions": [
+            "Central",
+            "Western",
+            "Northern",
+            "Eastern"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Antarctica",
+      "countries": [
+        {
+          "name": "Research Territories",
+          "regions": [
+            "Ross Dependency",
+            "Queen Maud Land",
+            "Adélie Land",
+            "Antarctic Peninsula"
+          ]
+        }
+      ]
+    }
+  ]
+}
